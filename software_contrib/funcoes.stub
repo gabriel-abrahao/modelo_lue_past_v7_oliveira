@@ -1,0 +1,11 @@
+C NCLFORTSTART
+integer function textcls (msand,mclay)
+integer msand,mclay
+C NCLEND
+
+C NCLFORTSTART
+function inpoly (poly, npoints, xt, yt)
+integer npoints,xt,yt
+real poly(7,2)
+C NCLEND
+
